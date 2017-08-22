@@ -11,6 +11,7 @@ Esse exemplo, visa demonstrar como manipular eventos via javascript pela funçã
 
 * Utilizando as boas práticas no desenvolvimento de formulários com [fluig Style Guide](http://style.fluig.com/)
 * Manipulando [datasets](http://tdn.totvs.com/display/public/fluig/Desenvolvimento+de+Datasets)
+* Carregando um dataset customizado em um elemento selecbox
 * Trabalhando com os eventos (clik / Mouseenter / Keypress / DblClik) na função Binding do fluig
 * Trabalhando com o recurso [application.info](http://tdn.totvs.com/display/public/fluig/Arquivo+application.info)
 * Trabalhando com o recurso de internacionalizando [(i18n)](http://tdn.totvs.com/pages/releaseview.action?pageId=185738869)
